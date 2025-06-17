@@ -1,4 +1,4 @@
-// My JavaScript variables
+// Day 1 - JavaScript Variables & Basic Expressions
 
 let name = "Stephanie";
 console.log("Hi, my name is " + "name");

@@ -1,5 +1,5 @@
 
-//Basic Expressions
+//Day 2 - Expressions & Operators + Challenegs
 
 //Assigning the value of 7 to x 
 let x = 7;
@@ -45,3 +45,6 @@ if (test1 > test2 && test1 > test3) {
     console.log('Test 3 had the highest score');
     } else {
     console.log('There was a tie');}
+
+
+    
