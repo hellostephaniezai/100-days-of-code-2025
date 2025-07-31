@@ -57,7 +57,7 @@ These are the tools and platforms guiding me on this journey:
 ---
 
 ## 📅 Start Date: 11 June 2025  
-## 🔥 Currently On: `Day 6/100`  
+## 🔥 Currently On: `Day 7/100`  
 (Updated regularly ✍🏾)
 
 ---
