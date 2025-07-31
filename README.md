@@ -27,6 +27,7 @@ You'll find my progress logged by topic and day, like this:
 - `04/100` – Conditionals (if, else, while)  
 - `05/100` – Functions basics
 - `06/100` – Functions Returns
+- `07/100` – Arrays
 
 I’m focusing on **clarity before cleverness** — making sure I *understand* the code, not just complete it.
 
