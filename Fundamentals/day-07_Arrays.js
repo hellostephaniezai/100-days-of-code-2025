@@ -22,3 +22,21 @@ console.log(sweetOnly)
 
 let notSweet = allFruits.filter(fruit => fruit.sweet === false);
 console.log(notSweet)
+
+//part 2:
+
+//Mapping 
+
+let fruitNamesUpper = allFruits.map(fruit => fruit.name.toUpperCase())
+console.log(fruitNamesUpper);
+
+let fruitNamesLower = allFruits.map(fruit =>fruit.name.toLowerCase())
+console.log(fruitNamesLower);
+
+//Find
+
+let firstSweet = allFruits.find(fruit => fruit.sweet === true);
+console.log(firstSweet);
+
+let hasSweet = allFruits. a(fruit => fruit.sweet);
+console.log(hasSweet);
