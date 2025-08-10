@@ -16,7 +16,7 @@ let allFruits = [
     {name: "Lemon", sweet: false },
     {name: "Strawberry", sweet: true },
     {name: "coconut", sweet: false },
-    
+
 ];
 
 // Filer Examples 
