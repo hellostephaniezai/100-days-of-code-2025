@@ -1,13 +1,14 @@
-// Day 7 - Arrays
+//------------------
+// Day 7 - Array Method Practice
+//------------------
 
-//Part 1:
+//Part 1: Simple Array Access
 
 let fruits = ["Kiwi", "Apple", "Melon", "Orange"];
-console.log(fruits[1])
-console.log(fruits[ 3])
+console.log(fruits[1]) // Apple 
+console.log(fruits[ 3]) // Orange
 
-
-//Part 2:
+//Part 2: Array of Objects
 
 let allFruits = [
     {name: "Kiwi", sweet: false },
@@ -15,7 +16,10 @@ let allFruits = [
     {name: "Lemon", sweet: false },
     {name: "Strawberry", sweet: true },
     {name: "coconut", sweet: false },
+    
 ];
+
+// Filer Examples 
 
 let sweetOnly = allFruits.filter(fruit => fruit.sweet === true);
 console.log(sweetOnly)
@@ -23,9 +27,7 @@ console.log(sweetOnly)
 let notSweet = allFruits.filter(fruit => fruit.sweet === false);
 console.log(notSweet)
 
-//part 2:
-
-//Mapping 
+// Mapping Examples
 
 let fruitNamesUpper = allFruits.map(fruit => fruit.name.toUpperCase())
 console.log(fruitNamesUpper);
@@ -33,10 +35,21 @@ console.log(fruitNamesUpper);
 let fruitNamesLower = allFruits.map(fruit =>fruit.name.toLowerCase())
 console.log(fruitNamesLower);
 
-//Find
+//Find and Boolean Check 
 
 let firstSweet = allFruits.find(fruit => fruit.sweet === true);
 console.log(firstSweet);
 
-let hasSweet = allFruits. a(fruit => fruit.sweet);
-console.log(hasSweet);
+hasSweet = allFruits.some(fruit => fruit.sweet)
+console.log("At least one sweet fruit?", hasSweet);
+
+let allAreSweet = allFruits.every(fruit => fruit.sweet);
+console.log("Are all fruit sweet?:", allAreSweet);
+
+// Add/ Remove
+
+allFruits.push({ name: "Papaya",sweet: true });
+console.log( "After Push", allFruits)
+
+let removeFruit = allFruits.pop()
+console.log("Removed Fruit:", removeFruit);
