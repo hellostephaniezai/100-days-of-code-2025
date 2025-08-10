@@ -58,7 +58,7 @@ These are the tools and platforms guiding me on this journey:
 ---
 
 ## 📅 Re-Start: 3rd Aug 2025  
-## 🔥 Currently On: `Day 7/100`  
+## 🔥 Currently On: `Day 8/100`  
 (Updated regularly ✍🏾)
 
 ---
