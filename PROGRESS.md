@@ -1,5 +1,32 @@
 # 📓 100 Days of Code – Detailed Progress Log
 
+
+---
+
+## Day 8 – Objects
+**Focus:** Grouping related data into key–value pairs
+
+### ✅ What I Learned
+- Creating objects using `{}` to store related properties like `name`, `age`, `color`, `plot`
+- Accessing values using **dot notation** (`person.name`) and **bracket notation** (`person["name"]`)
+
+- Adding new properties (`person.plot = "Revenge"`) and updating existing ones
+- Storing **nested objects** inside another object (`address: { city: "", country: "" }`)
+- Using a **for...in loop** to iterate over object keys and log all values
+- Working with an **array of objects** to store multiple items (cast list) and loop through them dynamically
+
+### 🐛 Errors I Hit
+- Initially used multiple `console.log()` calls instead of looping → repetitive code
+- Slight confusion between looping over an object vs looping over an array of objects
+
+### 💡 Notes
+- Looping through objects means I don’t have to rewrite log statements if properties change
+- Useful for profiles, settings, or data where property names and count may vary
+
+### 🎯 What I Did Well
+- Successfully created, updated, and accessed both simple and nested objects
+- Wrote loops to dynamically log all key–value pairs from both objects and arrays of objects
+
 ---
 
 ## Day 7 – Arrays
