@@ -28,6 +28,7 @@ You'll find my progress logged by topic and day, like this:
 - `05/100` – Functions basics
 - `06/100` – Functions Returns
 - `07/100` – Arrays 
+- `08/100` – Objects 
 
 
 I’m focusing on **clarity before cleverness** — making sure I *understand* the code, not just complete it.
