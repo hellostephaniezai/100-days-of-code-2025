@@ -1,76 +1,135 @@
 # 💻 100 Days of Code – CodeWithZai
 
-Welcome to my coding reboot!  
-I’m Stephanie — a bootcamp grad, mum in tech, and creative problem-solver since i was yay high. 
-This space documents my day-by-day journey as I strengthen my JavaScript skills and rebuild confidence in tech.
+Welcome to **CodeWithZai** 👩🏾‍💻
+
+Hiya, I’m Stephanie!
+
+This repository documents my journey strengthening core programming skills through the **100 Days of Code challenge**.
+
+I’m a software engineering bootcamp graduate rebuilding depth and fluency in programming through consistent practice.
+
+After a break to embrace motherhood, I'm back in tech — documenting my journey one day at a time. I'm passionate about learning, community building, and solving real-world problems with code.
+
+This space isn’t a daily diary — I'm using it as a **working lab** where I practice, test ideas, and deepen my understanding of programming fundamentals.
 
 ---
 
-## 🚀 Why I'm Doing This
+# 📈 Progress
 
-- Rebuild consistency and confidence  
-- Master JavaScript & React fundamentals  
-- Strengthen my problem-solving muscle  
-- Revisit DevOps & Cloud concepts with fresh eyes  
-- Aim to show up daily — even when it’s messy or imperfect or for one line of code
+Progress: █░░░░░░░
+Day 9 / 100
 
----
-
-## 🗂️ How It’s Organised
-
-Each day is a small, focused step forward.  
-You'll find my progress logged by topic and day, like this:
-
-- `01/100` – Variables & Data Types  
-- `02/100` – Expressions & Operators  
-- `03/100` – Loops  
-- `04/100` – Conditionals (if, else, while)  
-- `05/100` – Functions basics
-- `06/100` – Functions Returns
-- `07/100` – Arrays 
-- `08/100` – Objects
-- `09/100` – Practiced Loops/arrays & Counting(day3)
-
-
-I’m focusing on **clarity before cleverness** — making sure I *understand* the code, not just complete it.
+Progress is updated through commits as new exercises and concepts are completed.
 
 ---
 
-## 🧰 Tech Stack & Tools
+# 🚀 The Focus of This Repository
 
-These are the tools and platforms guiding me on this journey:
+My main objective is to strengthen the skills strong engineers rely on every day.
 
-- **VS Code** – My digital workspace  
-- **Git & GitHub** – Version control + public journal  
-- **ChatGPT** – My learning buddy  
-- **CodeWars** – Daily brain gym  
-- **W3Schools** – Quick syntax and concept checks  
-- **MDN Web Docs** – Deep dives into JavaScript  
-- **Stack Overflow** – When I’m stuck or curious about bugs
+Key areas of focus:
 
----
+⚙️ Writing clear, readable code
 
-## 🧠 My 100-Day Goals
+🧠 Strengthening problem-solving ability
 
-- ✅ Build & share mini-projects  
-- ✅ Improve syntax fluency & problem-solving  
-- ✅ Create a portfolio I’m proud of  
-- ✅ Stay consistent, even on low-energy days  
+🔁 Practicing programming fundamentals through repetition
 
----
+🧩 Breaking problems down into logical steps
 
-## 📅 Re-Start: 3rd Aug 2025  
-## 🔥 Currently On: `Day 9/100`  
-(Updated regularly ✍🏾)
+Current learning focus:
+
+💛 **JavaScript fundamentals** — core programming concepts
+
+🐍 **Python fundamentals** — preparation for technical assessments
+
+🧪 **Coding exercises and mini projects** to apply what I learn
 
 ---
 
-## 🙌 Let’s Connect
+# 🧠 My Learning Approach
 
-I’m documenting the highs, lows, and lessons on TikTok & Instagram [@CodeWithZai](https://www.instagram.com/CodeWithZai).  
-Expect raw progress, learning reflections, and moments of growth.
+I enjoy breaking down how things work — and especially **why they work**.
 
-Stay tuned, stay inspired, and remember:  
-✨ *Start exactly where you are.* ✨
+The goal is to **build real understanding**.
+
+My approach:
+
+🔍 Understand **how code works**
+
+🪜 Break problems down step-by-step
+
+✍🏾 Write solutions **from scratch**
+
+🧩 Practice the same concepts across multiple languages
 
 ---
+
+# 🧩 What This Repository Demonstrates
+
+This repository reflects the development of several core engineering habits:
+
+🔹 **Programming Fundamentals**
+
+Working with variables, data types, loops, conditionals, and functions.
+
+🔹 **Problem Decomposition**
+
+Breaking larger problems into smaller logical steps before solving them.
+
+🔹 **Language Flexibility**
+
+Practicing core programming concepts across **JavaScript and Python**.
+
+🔹 **Debugging & Iteration**
+
+Testing solutions, understanding errors, and improving code through repetition.
+
+🔹 **Consistency & Discipline**
+
+Maintaining regular coding practice and building long-term engineering habits.
+
+---
+
+# 🗂️ Repository Structure
+
+## 💛 JavaScript Fundamentals
+
+Progress organised by concept explored during the challenge.
+
+Day 01 — JavaScript variables
+Day 02 — JavaScript expressions
+Day 03 — JavaScript loops
+Day 04 — JavaScript if else
+Day 05 — JavaScript functions_basics
+Day 06 — JavaScript functions_returns
+Day 07 — JavaScript arrays
+Day 08 — JavaScript objects
+
+---
+## 🐍 Python Fundamentals
+
+Exercises focused on strengthening Python fundamentals for technical assessments.
+
+Day 09 — Python function_add-and-two
+
+
+---
+
+# 🌱 Future Directions
+
+As the challenge progresses this repository will expand to include:
+
+⚙️ More complex problem-solving exercises
+
+🌐 JavaScript projects involving the DOM and APIs
+
+🐍 Python exercises for technical assessments
+
+☁️ Exploration of cloud and DevOps related tooling
+
+---
+
+✨ *"Forget your perfect offering, there is a crack in everything. That's how the light gets in."*
+
+— Leonard Cohen
