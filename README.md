@@ -17,7 +17,7 @@ This space isn’t a daily diary — I'm using it as a **working lab** where I p
 # 📈 Progress
 
 Progress: █░░░░░░░
-Day 10 / 100
+Day 11 / 100
 
 Progress is updated through commits as new exercises and concepts are completed.
 
@@ -100,6 +100,7 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 
 - Day 09 — Python function_add-and-two
 - Day 10 — Python function_operators
+- Day 11 — Python statement_and_states
 ---
 
 # 🌱 Future Directions
