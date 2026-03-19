@@ -101,6 +101,7 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 - Day 09 — Python function_add-and-two
 - Day 10 — Python function_operators
 - Day 11 — Python statement_and_states
+- Day 12 — Python functions_two_step
 ---
 
 # 🌱 Future Directions
