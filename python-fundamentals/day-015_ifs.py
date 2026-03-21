@@ -1,6 +1,13 @@
+from test_checks import check_that_these_are_equal
 #//-------------------------------------------------------------------
 #// #Day 15 - If and Else Statement
 #//-------------------------------------------------------------------
+
+def check_that_these_are_equal(actual, expected):
+    if actual == expected:
+        print(f"✅ Passed: got {actual}")
+    else:
+        print(f"❌ Failed: got {actual}, expected {expected}")
 
 # @TASK: Complete these exercises
 

@@ -105,6 +105,10 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 - Day 13 — Python string_indexing_and_slicing
 - Day 14 — Python functions_greet-with-parameters
 - Day 15 — Python if_statements
+- Day 16 — Python comparisons
+- Day 17 — Python logic
+
+
 ---
 
 # 🌱 Future Directions
@@ -112,7 +116,7 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 As the challenge progresses this repository will expand to include:
 ⚙️ More complex problem-solving exercises
 🌐 JavaScript projects involving the DOM and APIs
-🐍 Python exercises for technical assessments
+🐍 Python and JavaScript exercises for technical assessments
 ☁️ Exploration of cloud and DevOps related tooling
 
 ---

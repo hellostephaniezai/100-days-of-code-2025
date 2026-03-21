@@ -1,8 +1,7 @@
-
+from test_checks import check_that_these_are_equal
 #//-------------------------------------------------------------------
 #// #Day 12 - Two Step functions
 #//-------------------------------------------------------------------
-
 
 # @TASK: Complete these functions.
 
