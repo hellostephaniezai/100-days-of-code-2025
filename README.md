@@ -104,6 +104,7 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 - Day 12 — Python functions_two_step
 - Day 13 — Python string_indexing_and_slicing
 - Day 14 — Python functions_greet-with-parameters
+- Day 15 — Python if_statements
 ---
 
 # 🌱 Future Directions
