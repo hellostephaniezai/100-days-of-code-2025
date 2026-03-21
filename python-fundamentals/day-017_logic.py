@@ -30,3 +30,4 @@ def not_a(a):
 
 check_that_these_are_equal(not_a(True), False)
 check_that_these_are_equal(not_a(False), True)
+
