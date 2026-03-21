@@ -16,8 +16,8 @@ This space isn’t a daily diary — I'm using it as a **working lab** where I p
 
 # 📈 Progress
 
-Progress: █░░░░░░░
-Day 11 / 100
+Progress: ██░░░░░░░
+Day 17 / 100
 
 Progress is updated through commits as new exercises and concepts are completed.
 
@@ -107,6 +107,7 @@ Exercises focused on strengthening Python fundamentals for technical assessments
 - Day 15 — Python if_statements
 - Day 16 — Python comparisons
 - Day 17 — Python logic
+- Day 18 — Python 
 
 
 ---
